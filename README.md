@@ -7,7 +7,7 @@ A simple and interactive web application that converts text into speech using th
 ## 📸 Demo
 
 <p align="center">
-  <img src="images/image.png" width="400"/>
+  <img src="/image.png" width="400"/>
 </p>
 
 ---
